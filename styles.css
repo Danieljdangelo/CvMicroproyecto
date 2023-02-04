@@ -45,3 +45,24 @@ nav ul li a:hover{
     color: red;
     transition: .3s;
 }
+.Am1{
+    color: white;
+    font-size: 30px;
+
+}
+.Am2{
+    color: white;
+    font-size: 20px;
+}
+.Am3{
+    color: white;
+    padding: 10px 20px;
+}
+.img1{
+    alt: "Foto de LinkedIn";
+    width: 300px;
+    padding: 10px 20px;
+}
+.Objetivos{
+    color: white;
+}
