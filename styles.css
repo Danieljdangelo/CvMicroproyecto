@@ -48,14 +48,17 @@ nav ul li a:hover{
 .Am1{
     color: white;
     font-size: 30px;
+    padding: 10px 20px;
 
 }
 .Am2{
     color: white;
     font-size: 20px;
+    padding: 10px 20px;
 }
 .Am3{
     color: white;
+    padding: 10px 20px;
     padding: 10px 20px;
 }
 .img1{
@@ -65,4 +68,5 @@ nav ul li a:hover{
 }
 .Objetivos{
     color: white;
+    padding: 10px 20px;
 }
