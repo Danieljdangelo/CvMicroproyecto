@@ -43,16 +43,11 @@
 
 
     <h1 class="Am1" id="IdCm">Contact Me</h1>
-    <form>
-        <label class="label"for="fname">First name:</label>
-        <input class="box"type="text" id="fname" name="fname"><br>
-        <label class="label"for="lname">Last name:</label>
-        <input class="box"type="text" id="lname" name="lname"><br>
-        <label class="label"for="lmail">Email:</label>
-        <input class="box"type="mail" id="lmail" name="lmail"><br>
-        <label class="label"for="lname">¿Qué te gustaría decirme?:</label><br>
-        <input class="boxContent"type="text" id="lcontent" name="lcontent">
-        <button class="mandar" type="submit" value="Contactar"></button>
+    <form method="get"> 
+        <input class="box"type="text" id="fname" name="fname" placeholder="Nombre"><br>
+        <input class="box"type="text" id="lname" name="lname" placeholder="Apellido"><br>
+        <input class="box"type="mail" id="lmail" name="lmail" placeholder="Correo electrónico"><br>
+        <textarea class="boxContent" type="text" id="lcontent" name="lcontent" placeholder="Escribe aquí..."></textarea>
     </form>
 
 

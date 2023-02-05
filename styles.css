@@ -81,6 +81,7 @@ nav ul li a:hover{
 }
 .box{
     background-color: white;
+    padding: 5px;
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 20px;
@@ -88,13 +89,10 @@ nav ul li a:hover{
 }
 .boxContent{
     background-color: white;
-    padding: 100px 200px;
+    padding: 5px;
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 20px;
     overflow: hidden;
 }
-.mandar{
-    background-color: red;
-    size: 20px;
-}
+
