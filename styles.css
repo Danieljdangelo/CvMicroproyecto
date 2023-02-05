@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
-    background-color: black;
+    background-color: #252850;
 
 }
 .hero{
@@ -49,6 +49,7 @@ nav ul li a:hover{
     color: white;
     font-size: 30px;
     padding: 10px 20px;
+    text-align: center;
 
 }
 .Am2{
@@ -69,4 +70,31 @@ nav ul li a:hover{
 .Objetivos{
     color: white;
     padding: 10px 20px;
+}
+
+.label{
+    color: white;
+    
+    padding: 10px 20px;
+    overflow: hidden;
+    background-color: transparent;
+}
+.box{
+    background-color: white;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    overflow: hidden;
+}
+.boxContent{
+    background-color: white;
+    padding: 100px 200px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    overflow: hidden;
+}
+.mandar{
+    background-color: red;
+    size: 20px;
 }
