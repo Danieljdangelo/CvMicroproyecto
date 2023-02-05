@@ -192,3 +192,17 @@ nav ul li a:hover{
   from {opacity: .4}
   to {opacity: 1}
 }
+
+.center{
+   width: 100%;
+   height: 50%;
+   margin-left: auto;
+   margin-right: auto;
+   
+}
+.tableH{
+    color: white;
+    text-align: center;
+}
+
+    
